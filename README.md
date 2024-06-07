@@ -18,8 +18,7 @@ Before running the script, ensure the following:
    chmod +x update_filezilla.sh
    ```
 
-
-3. **Verify the .fzprokey File**
+2. **Verify the .fzprokey File**
 
 Ensure that the .fzprokey file is present in your home directory and contains your FileZilla Pro key. You can check its contents with:
 
@@ -27,7 +26,7 @@ Ensure that the .fzprokey file is present in your home directory and contains yo
    cat ~/.fzprokey
    ```
 
-4. **Run the Script**
+3. **Run the Script**
 
 Execute the script by running:
 
